@@ -1,0 +1,6 @@
+{
+  "name": "Auton AI",
+  "description": "Convert natural language criteria or manual test steps into production-ready Playwright and Cypress automation scripts with interactive refining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
